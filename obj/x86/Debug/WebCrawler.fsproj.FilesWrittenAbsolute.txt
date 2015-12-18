@@ -1,0 +1,8 @@
+/Users/admin/Projects/WebCrawler/WebCrawler/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.fs
+/Users/admin/Projects/WebCrawler/WebCrawler/bin/Debug/WebCrawler.exe.mdb
+/Users/admin/Projects/WebCrawler/WebCrawler/bin/Debug/WebCrawler.exe
+/Users/admin/Projects/WebCrawler/WebCrawler/obj/x86/Debug/WebCrawler.exe
+/Users/admin/Projects/WebCrawler/WebCrawler/obj/x86/Debug/WebCrawler.exe.mdb
+/Users/admin/Projects/WebCrawler/WebCrawler/bin/Debug/ExtendType.OfDateTime.dll
+/Users/admin/Projects/WebCrawler/WebCrawler/bin/Debug/DateTimeProvider.dll
+/Users/admin/Projects/WebCrawler/WebCrawler/bin/Debug/DateTimeExtensions.dll
